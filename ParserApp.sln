@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParserApp", "ParserApp\ParserApp.csproj", "{3CEFF2DB-CCB6-4E7F-B390-C36DE6A3696C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DomainTests", "DomainTests\DomainTests.csproj", "{62088FCA-B75C-4062-9E60-1764D08C6904}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3CEFF2DB-CCB6-4E7F-B390-C36DE6A3696C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CEFF2DB-CCB6-4E7F-B390-C36DE6A3696C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CEFF2DB-CCB6-4E7F-B390-C36DE6A3696C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CEFF2DB-CCB6-4E7F-B390-C36DE6A3696C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62088FCA-B75C-4062-9E60-1764D08C6904}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62088FCA-B75C-4062-9E60-1764D08C6904}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62088FCA-B75C-4062-9E60-1764D08C6904}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62088FCA-B75C-4062-9E60-1764D08C6904}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

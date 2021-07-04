@@ -1,0 +1,7 @@
+2021-06-30 13:10:27.1402 INFO  Некорректный url
+2021-06-30 13:10:34.6625 INFO  Некорректный url
+2021-06-30 13:25:00.4017 ERROR System.FormatException: Input string was not in a correct format.
+   at System.Number.ThrowOverflowOrFormatException(ParsingStatus status, TypeCode type)
+   at System.Number.ParseInt32(ReadOnlySpan`1 value, NumberStyles styles, NumberFormatInfo info)
+   at System.Int32.Parse(String s)
+   at ParserApp.Menu.Start() in C:\Users\Никита\RiderProjects\ParserApp\ParserApp\Menu.cs:line 26

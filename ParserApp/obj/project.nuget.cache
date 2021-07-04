@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "uCoNOOIyUZY/K2gogQ/1qTzOTZepDgosdYaDW12rga6I74txJ4Dqm6lASIqcSfQtUcsFrVPYI2r2VhDIfMZ27A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Никита\\Desktop\\ParserApp\\ParserApp\\ParserApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Никита\\.nuget\\packages\\htmlagilitypack\\1.11.34\\htmlagilitypack.1.11.34.nupkg.sha512",
+    "C:\\Users\\Никита\\.nuget\\packages\\nlog\\4.7.10\\nlog.4.7.10.nupkg.sha512",
+    "C:\\Users\\Никита\\.nuget\\packages\\nlog.config\\4.7.10\\nlog.config.4.7.10.nupkg.sha512",
+    "C:\\Users\\Никита\\.nuget\\packages\\nlog.schema\\4.7.10\\nlog.schema.4.7.10.nupkg.sha512",
+    "C:\\Users\\Никита\\.nuget\\packages\\xunit.runner.visualstudio\\2.4.3\\xunit.runner.visualstudio.2.4.3.nupkg.sha512"
+  ],
+  "logs": []
+}
